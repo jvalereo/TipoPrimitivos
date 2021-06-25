@@ -1,8 +1,9 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://user-images.githubusercontent.com/25933386/117901644-24655980-b2a2-11eb-991a-557f2332f30c.JPG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://user-images.githubusercontent.com/25933386/123473926-a3eb8580-d5cf-11eb-8a3f-cf09ec8eb54b.PNG" style="max-width: 100%;"></img>
 </a>
+
 
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
