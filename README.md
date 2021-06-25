@@ -26,7 +26,7 @@
 
 - Programa básico, testando tipos primitivos no console, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
-- IDE - Eclipse
+- IDE Eclipse
 
 # Tecnologia Aplicada no Projeto
 
