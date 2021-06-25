@@ -24,10 +24,9 @@
 
 # Sobre o Projeto
 
-- Programa cadastro pessoal, insere dados pessoais nos campos,  e execulta o resultado na tela.
-- Outros fatores, você também pode  fazer teste aleatorio, usando os buttons, Executa, Limpar, Sair, nesse projeto.
-- Projeto foi implemetado no Forms.
-- IDE NetBeans
+- Programa básico, testando tipos primitivos no console, e execulta o resultado na tela.
+- Projeto foi implemetado no console.
+- IDE Eclipse
 
 # Tecnologia Aplicada no Projeto
 
